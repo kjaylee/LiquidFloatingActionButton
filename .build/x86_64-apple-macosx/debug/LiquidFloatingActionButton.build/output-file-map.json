@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/master.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/ArrayEx.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/ArrayEx.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/ArrayEx.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/ArrayEx~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/ArrayEx.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/CGPointEx.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGPointEx.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGPointEx.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGPointEx~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGPointEx.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/CGRectEx.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGRectEx.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGRectEx.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGRectEx~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/CGRectEx.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquidFloatingActionButton.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidFloatingActionButton.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidFloatingActionButton.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidFloatingActionButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidFloatingActionButton.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquidUtil.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidUtil.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidUtil.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidUtil~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquidUtil.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquittableCircle.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquittableCircle.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquittableCircle.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquittableCircle~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/LiquittableCircle.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/SimpleCircleLiquidEngine.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/SimpleCircleLiquidEngine.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/SimpleCircleLiquidEngine.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/SimpleCircleLiquidEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/SimpleCircleLiquidEngine.swiftdeps"
+  },
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/UIColorEx.swift": {
+    "dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/UIColorEx.d",
+    "object": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/UIColorEx.swift.o",
+    "swiftmodule": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/UIColorEx~partial.swiftmodule",
+    "swift-dependencies": "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/Classes/UIColorEx.swiftdeps"
+  }
+}

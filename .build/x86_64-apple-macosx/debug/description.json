@@ -1,0 +1,19 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "\/Users\/jaylee\/Workspace\/LiquidFloatingActionButton\/.build\/x86_64-apple-macosx\/debug\/LiquidFloatingActionButtonPackageTests.xctest\/Contents\/MacOS\/LiquidFloatingActionButtonPackageTests",
+      "packageName" : "LiquidFloatingActionButton",
+      "productName" : "LiquidFloatingActionButtonPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "swiftTargetMap" : {
+    "C.LiquidFloatingActionButton-debug.module" : "LiquidFloatingActionButton",
+    "C.LiquidFloatingActionButtonTests-debug.module" : "LiquidFloatingActionButtonTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

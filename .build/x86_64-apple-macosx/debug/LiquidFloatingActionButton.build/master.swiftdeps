@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "f22c623e6bb1b85032d9ca3861097896"
+build_time: [1608163243, 738657000]
+inputs:
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/ArrayEx.swift": [1608162065, 239129277]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/CGPointEx.swift": [1608163131, 665101872]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/CGRectEx.swift": [1608163138, 679676214]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquidFloatingActionButton.swift": [1608163197, 160171343]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquidUtil.swift": [1608163070, 758725975]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/LiquittableCircle.swift": [1608163081, 50430115]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/SimpleCircleLiquidEngine.swift": [1608163090, 339569789]
+  "/Users/jaylee/Workspace/LiquidFloatingActionButton/Sources/LiquidFloatingActionButton/Classes/UIColorEx.swift": [1608163098, 439711286]

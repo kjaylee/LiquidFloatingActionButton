@@ -1,0 +1,4 @@
+module LiquidFloatingActionButton {
+    header "/Users/jaylee/Workspace/LiquidFloatingActionButton/.build/x86_64-apple-macosx/debug/LiquidFloatingActionButton.build/LiquidFloatingActionButton-Swift.h"
+    requires objc
+}
